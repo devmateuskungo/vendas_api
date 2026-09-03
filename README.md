@@ -1,4 +1,4 @@
-# Node Store API
+#Store API
 
 REST API para gestão de uma loja online, construída com **Node.js**, **Express** e **MongoDB**.
 
